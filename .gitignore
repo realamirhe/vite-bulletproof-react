@@ -1,0 +1,33 @@
+# Generated intelligently by https://github.com/amirHossein-Ebrahimi/add-gitignore
+# Created by https://www.toptal.com/developers/gitignore/api/react,webstorm
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+# production
+dist
+build
+dist-ssr
+*.local
+
+### WebStorm ###
+.idea
+
+### vscode ###
+.vscode
+
+# Env
+.env
+
+
+# misx
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
