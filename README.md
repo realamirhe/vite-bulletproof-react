@@ -1,5 +1,14 @@
 # vite-bulletproof-react
 
+## installation
+```sh
+mkdir my-application
+cd my-application
+npx degit github:amirHossein-Ebrahimi/vite-bulletproof-react
+yarn install
+```
+
+
 Vite starter template for an Opinionated simple, scalable, and powerful architecture for building production ready React applications.
 
 - **React**
