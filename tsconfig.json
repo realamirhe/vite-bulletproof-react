@@ -21,7 +21,8 @@
       "~hooks/*": ["src/hooks/*"],
       "~services/*": ["src/services/*"],
       "~slices/*": ["src/slices/*"]
-    }
+    },
+    "types": ["vite/client"]
   },
   "include": ["src"]
 }

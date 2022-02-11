@@ -33,7 +33,11 @@ export default function Home() {
 
   return (
     <Box sx={{ textAlign: "center", overflow: "hidden" }}>
-      <MyTypography isEven={Boolean(counter % 2)} variant="h2">
+      <MyTypography
+        isEven={Boolean(counter % 2)}
+        variant="h2"
+        sx={{ margin: 10 }}
+      >
         {t("greeting")}
       </MyTypography>
 
