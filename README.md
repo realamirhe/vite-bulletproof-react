@@ -4,7 +4,7 @@
 ```sh
 mkdir my-application
 cd my-application
-npx degit github:amirHossein-Ebrahimi/vite-bulletproof-react
+npx degit github:realamirhe/vite-bulletproof-react
 yarn install
 ```
 
